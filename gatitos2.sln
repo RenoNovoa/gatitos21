@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gatitos2", "gatitos2\gatitos2.csproj", "{5D822A4E-97C6-4303-8F25-D6817F73D631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D822A4E-97C6-4303-8F25-D6817F73D631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D822A4E-97C6-4303-8F25-D6817F73D631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D822A4E-97C6-4303-8F25-D6817F73D631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D822A4E-97C6-4303-8F25-D6817F73D631}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECCC607F-CFDA-4397-80BC-461D7E8F74F5}
+	EndGlobalSection
+EndGlobal
